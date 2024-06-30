@@ -1,6 +1,6 @@
 # 👋 About Me
 
-![Profile Banner](https://github.com/waritpongkum/waritpongkum/raw/main/)
+![Profile Banner](https://github.com/waritpongkum/waritpongkum/blob/main/pexels-emmali-5199173crop.jpg)
 
 Hi there! I'm **Warit Pongkum**, a young software developer focused on creating impactful solutions with code.
 
