@@ -23,7 +23,7 @@ Tools:
 
 ### 💬 Let's Connect
 - 🌐 Portfolio: [Coming Soon!](#)
-- 🔗 LinkedIn: [Warit Pongkum](www.linkedin.com/in/warit-pongkum-4089982ba)
+- 🔗 LinkedIn: [Warit Pongkum](https://www.linkedin.com/in/warit-pongkum-4089982ba/)
 - ✉️ Email: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
 
 ### 🎉 Fun Fact
