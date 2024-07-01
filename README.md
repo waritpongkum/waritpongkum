@@ -1,6 +1,6 @@
 # Hi there, I'm Warit Pongkum 👋
 ### 🌟 About Me
-I'm a 17-year-old who loves coding and programming. I started with front-end web development, and now I want to create things that can make a difference in the world. I plan to study computer science in college.
+I'm a 17-year-old who loves coding and programming. I started with front-end web development, and now I want to create things that can make a difference in the world! 🌏
 
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Preparing to study Computer Science in college.
