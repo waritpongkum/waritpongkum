@@ -4,13 +4,13 @@ I'm a 17-year-old who loves coding and programming. I started with front-end web
 
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Preparing to study Computer Science in college.
-- 📚 Learning: Advanced JavaScript, React, C++ and data structures.
+- 📚 Learning: Neural Network, Deep Learning, Image Processing and C++.
 - 🤖 Interests: AI, Machine Learning, and their real-world uses.
 
 ### 🛠️ My Skills
 Languages & Frameworks:
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java" /><br>
 </div>
 
 Tools:
