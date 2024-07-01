@@ -1,47 +1,32 @@
-# 👋 About Me
+# Hi there, I'm Warit Pongkum 👋
+### 🌟 About Me
+I'm a 17-year-old who loves coding and programming. I started with front-end web development, and now I want to create things that can make a difference in the world. I plan to study computer science in college.
 
-![Profile Banner](https://github.com/waritpongkum/waritpongkum/blob/main/pexels-emmali-5199173crop.jpg)
+### 🚀 What I'm Doing Now
+- 🎓 Education: Preparing to study Computer Science in college.
+- 📚 Learning: Advanced JavaScript, React, C++ and data structures.
+- 🤖 Interests: AI, Machine Learning, and their real-world uses.
 
-Hi there! I'm **Warit Pongkum**, a young software developer focused on creating impactful solutions with code.
+### 🛠️ My Skills
+Languages & Frameworks:
+<div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+</div>
 
-🔭 **Current Role**:
-- **Grade 12 Student** at **Piboonbumpen Demonstration School**
+Tools:
+<div>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+</div>
 
-🌟 **Skills & Expertise**:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### 🌱 My Projects
+- [NSC 2024](#): National Software Contest 2024
 
-📚 **Currently Learning**:
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f61?logo=ai&logoColor=white)
+### 💬 Let's Connect
+- 🌐 Portfolio: [Coming Soon!](#)
+- 🔗 LinkedIn: [Warit Pongkum](www.linkedin.com/in/warit-pongkum-4089982ba)
+- ✉️ Email: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
 
-🎯 **Goals**:
-- ![Computer Science KMITL]()
-
-🚀 **Projects**:
-- [**NSC 2024**](https://github.com/yourusername/project1): National Software Contest 2024 project.
-
-🏆 **Achievements**:
-
-💬 **Ask Me About**:
-- ![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?logo=web&logoColor=white)
-
-📫 **How to Reach Me**:
-- **Email**: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
-<!--
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
--->
-⚡ **Fun Fact**: I spent 2 hours to make this! 💔
+### 🎉 Fun Fact
+When I'm not coding, I like to check out new tech trends, play video games, or try out new recipes!
 
 ---
-
-### 🛠️ Tools & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
