@@ -5,7 +5,7 @@ I'm a 17-year-old who loves coding and programming. I started with front-end web
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Preparing to study Computer Science in college.
 - 📚 Learning: Neural Network, Deep Learning, Image Processing and C++.
-- 🤖 Interests: AI, Machine Learning, and their real-world uses.
+- 🤖 Interests: AI, Machine Learning and Math. 
 
 ### 🛠️ My Skills
 Languages & Frameworks:
@@ -27,6 +27,6 @@ Tools:
 - ✉️ Email: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
 
 ### 🎉 Fun Fact
-When I'm not coding, I like to check out new tech trends, play video games, or try out new recipes!
+When I'm not coding, I like to play video games, play guitar or do some exercises! 💪
 
 ---
