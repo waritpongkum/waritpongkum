@@ -21,7 +21,7 @@ Tools:
 ### 🌱 My Projects
 - [NSC 2024](#): National Software Contest 2024
 
-### 💬 Let's Connect
+### 💬 Let's Contact
 - 🌐 Portfolio: [Coming Soon!](#)
 - 🔗 LinkedIn: [Warit Pongkum](https://www.linkedin.com/in/warit-pongkum-4089982ba/)
 - ✉️ Email: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
