@@ -8,12 +8,12 @@ I'm a 17-year-old who loves coding and programming. I started with front-end web
 - 🤖 Interests: AI, Machine Learning and Math. 
 
 ### 🛠️ My Skills
-Languages & Frameworks:
+**Languages & Frameworks:**
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java" /><br>
 </div>
 
-Tools:
+**Tools:**
 <div>
     <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
 </div>
