@@ -4,8 +4,8 @@ I'm a 17-year-old who loves coding and programming. I started with front-end web
 
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Preparing to study Computer Science in college.
-- 📚 Learning: Neural Network, Deep Learning, Image Processing and Low-level programming language.
-- 🤖 Interests: AI, Machine Learning and Math. 
+- 📚 Learning: Networking and Low-level programming language.
+- 🤖 Interests: Networking, Security and Math.
 
 ### 🛠️ My Skills
 **Languages & Frameworks:**
