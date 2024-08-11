@@ -15,7 +15,7 @@ I'm a 17-year-old who loves coding and programming. I started with front-end web
 
 **Tools:**
 <div>
-    <img src="https://skillicons.dev/icons?i=git,github,neovim" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode" /><br>
 </div>
 
 ### 🌱 My Projects
