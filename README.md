@@ -4,8 +4,8 @@ I'm a 17-year-old who loves mathematics and programming. I started with front-en
 
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Going to be an applied math student at [KMITL](https://www.kmitl.ac.th/).
-- 📚 Learning: Algebra.
-- 🤖 Interests: AI, Algorithm and Mathematics.
+- 📚 Learning: Algebra
+- 🤖 Interests: AI, Algorithm and Mathematics
 
 ### 🛠️ My Skills
 **Languages & Frameworks:**
