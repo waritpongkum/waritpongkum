@@ -1,11 +1,11 @@
 # Hi there,</br> I'm Warit Pongkum 👋
 ### 🌟 About Me
-I'm a 17-year-old who loves mathematics and programming. I started with front-end web development and learned about some comsci stuff, Now I aim to be an AI researcher and I want to be a part of building the next breakthrough in AI! 
+I'm a 17-year-old who loves mathematics and programming. I started with front-end web development and learned about some comsci stuff, Now I aim to be an AI researcher and I want to be a part of building the next breakthrough in AI! 🤖
 
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Going to be an applied math student at [KMITL](https://www.kmitl.ac.th/).
-- 📚 Learning: Algebra
-- 🤖 Interests: AI, Algorithm and Mathematics
+- 📚 Learning: Algebra.
+- 🧠 Interests: AI, Algorithm and Mathematics.
 
 ### 🛠️ My Skills
 **Languages & Frameworks:**
