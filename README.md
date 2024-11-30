@@ -3,9 +3,9 @@
 I'm a 17-year-old who loves mathematics and programming. I started with front-end web development and learned about some comsci stuff, Now I aim to be an AI researcher and I want to be a part of building the next breakthrough in AI! 
 
 ### 🚀 What I'm Doing Now
-- 🎓 Education: Going to be an applied math student at KMITL.
+- 🎓 Education: Going to be an applied math student at [KMITL](https://www.kmitl.ac.th/).
 - 📚 Learning: Algebra.
-- 🤖 Interests: AI, Algorithm and Math.
+- 🤖 Interests: AI, Algorithm and Mathematics.
 
 ### 🛠️ My Skills
 **Languages & Frameworks:**
@@ -22,7 +22,7 @@ I'm a 17-year-old who loves mathematics and programming. I started with front-en
 - [NSC 2024](#): National Software Contest 2024
 
 ### 💬 Let's Contact
-- 🌐 Portfolio: [Coming Soon!](#)
+- 🌐 Website: [Coming Soon!](#)
 - 🔗 LinkedIn: [Warit Pongkum](https://www.linkedin.com/in/warit-pongkum-4089982ba/)
 - ✉️ Email: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
 
