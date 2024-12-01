@@ -3,7 +3,7 @@
 I'm a 17-year-old who loves mathematics and programming. I started with front-end web development and learned about some comsci stuff, Now I aim to be an AI researcher and I want to be a part of building the next breakthrough in AI! 🤖
 
 ### 🚀 What I'm Doing Now
-- 🎓 Education: Going to be an applied math student at [KMITL](https://www.kmitl.ac.th/).
+- 🎓 Education: Going to be an applied math student at <a href="https://kmitl.ac.th/" target="_blank">KMITL</a>.
 - 📚 Learning: Algebra.
 - 🧠 Interests: AI, Algorithm and Mathematics.
 
