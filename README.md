@@ -4,26 +4,15 @@ I'm a 17-year-old who loves mathematics and programming. I started with front-en
 
 ### 🚀 What I'm Doing Now
 - 🎓 Education: Going to be an applied math student at <a href="https://kmitl.ac.th/" target="_blank">KMITL</a>.
-- 📚 Learning: Algebra.
+- 📚 Learning: Linear algebra.
 - 🧠 Interests: AI, Algorithm and Mathematics.
-
-### 🛠️ My Skills
-**Languages & Frameworks:**
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,c" /><br>
-</div>
-
-**Tools:**
-<div>
-    <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode" /><br>
-</div>
 
 ### 🌱 My Projects
 - [NSC 2024](#): National Software Contest 2024
 
-### 💬 Let's Contact
+### 💬 Contacts
 - 🌐 Website: [Coming Soon!](#)
 - 🔗 LinkedIn: [Warit Pongkum](https://www.linkedin.com/in/warit-pongkum-4089982ba/)
 - ✉️ Email: [waritpongkum@gmail.com](mailto:waritpongkum@gmail.com)
-
 ---
+<div style="text-align:center">You can't fill a glass that is already full.</div>
